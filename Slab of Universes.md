@@ -1,5 +1,5 @@
 
-**《Universal Codex》**
+**《Slab of Universes》**
 
 在第十七环形观测站最底层，人们只找到了一块严重腐蚀的钛合金铭板。
 
@@ -11,7 +11,7 @@
 
 下方，用极小的字体刻着四个几乎无法辨认的字：
 
-**Universal Codex**
+**Slab of Universes**
 
 ——
 
@@ -23,7 +23,7 @@
 
 纸上只写了三行。
 
-**Universal Codex**
+**Slab of Universes**
 
 **U(n) = Σ(Ω → φ)**
 
